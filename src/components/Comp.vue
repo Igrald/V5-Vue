@@ -3,7 +3,7 @@ const props = defineProps({
   msg: String,
 });
 
-const a = "hey...";
+const a = "hey......";
 console.log(a);
 </script>
 
